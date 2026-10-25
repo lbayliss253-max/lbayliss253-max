@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, my name is Logan Bayliss, and I am a Registered Nurse in Canada who is interested in niche medical software and retro gaming. My technical skills are quite rudimentary, but I am very interested in new forms of technology, and also in mining old software for solutions and ideas that could be useful. We stand, after all, on the shoulders of giants.
 
 <!--
 **lbayliss253-max/lbayliss253-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
